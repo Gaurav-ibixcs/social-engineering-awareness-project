@@ -13,4 +13,4 @@ ________________________________________________________________-
 
 Example (Read-only analysis)
 exiftool document.pdf
-strings image.jpg
+strings image.j
