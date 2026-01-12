@@ -17,9 +17,9 @@ for word in keywords:
         score += 1
 
 if score >= 2:
-    print("⚠️ Possible Phishing Email Detected")
+    print(" Possible Phishing Email Detected")
 else:
-    print("✅ Email Looks Safe")
+    print(" Email Looks Safe")
 
 
 Purpose
